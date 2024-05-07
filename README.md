@@ -68,3 +68,4 @@ Accelerate will automatically handle multi-GPU setting. The code can work on a s
 ```bash
 accelerate launch train.py --config config/train_config.py:aesthetic_clip_hps
 ```
+
